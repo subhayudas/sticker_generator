@@ -32,14 +32,14 @@ function Footer() {
           <div>
             <h3 className="text-lg font-semibold mb-4">Connect</h3>
             <ul className="space-y-2 text-gray-400">
-              <li><a href="#" className="hover:text-purple-400">Twitter</a></li>
-              <li><a href="#" className="hover:text-purple-400">Instagram</a></li>
-              <li><a href="#" className="hover:text-purple-400">Facebook</a></li>
+              <li><a href="https://www.linkedin.com/in/subhayu-das/" className="hover:text-purple-400">Linkedin</a></li>
+              <li><a href="https://www.instagram.com/just_subhayu/" className="hover:text-purple-400">Instagram</a></li>
+              <li><a href="https://github.com/subhayu-das" className="hover:text-purple-400">Github</a></li>
             </ul>
           </div>
         </div>
         <div className="border-t border-gray-800 mt-12 pt-8 text-center text-gray-400">
-          <p>&copy; {new Date().getFullYear()} StickerMagic. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} StickerMagic || Subhayu Das . All rights reserved.</p>
         </div>
       </div>
     </footer>
